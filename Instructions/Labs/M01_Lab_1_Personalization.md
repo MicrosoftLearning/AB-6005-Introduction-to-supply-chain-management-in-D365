@@ -6,7 +6,8 @@ lab:
     level: 100 
     islab: true
 
-# Describe the Dynamics 365 finance and operations apps: Lab 1: Personalize your workspace
+# Describe the Dynamics 365 finance and operations apps: 
+# Lab 1: Personalize your workspace
 
 In this exercise you will create a filtered view and add it to a workspace. Your goal is to have easy access to customers who are on hold.
 
