@@ -43,7 +43,7 @@ Launch the provided environment as per instructions provided.
 > [!NOTE]
 > If you don't see the **Options** menu, expand your screen. You may also need to move the Instructions panel by selecting the settings icon and then **Split Windows**.
 
-1.  In the **Personalize** group, in the **Options** menu, select **Add to workspace**.
+9.  In the **Personalize** group, in the **Options** menu, select **Add to workspace**.
     - Select the **Customer credit and collections** workspace with a **List** presentation.
     - Select the **Configure** button.
     - Clear the **Currency** field selection.
