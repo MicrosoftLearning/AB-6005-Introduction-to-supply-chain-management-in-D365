@@ -1,10 +1,11 @@
 ---
 lab:
-    title: 'Lab 1: Personalize your workspace'
-    description: 'In this lab, you will create a filtered view and add it to a workspace.'
-    duration: '10 minutes'
-    level: 100 
-    islab: true
+  title: 'Lab 1: Personalize your workspace'
+  description: 'In this lab, you will create a filtered view and add it to a workspace.'
+  duration: '10 minutes'
+  level: 100 
+  islab: true
+---
 
 # Describe the Dynamics 365 finance and operations apps: 
 # Lab 1: Personalize your workspace
