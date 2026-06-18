@@ -1,10 +1,24 @@
-## Exercise: Create a purchase order
+---
+lab:
+  title: 'Lab 3: Create a purchase order'
+  description: 'In this lab, you will create and confirm a purchase order.'
+  duration: '15 minutes'
+  level: 200 
+  islab: true
+---
 
-### Objective
+# Describe sales processes in Dynamics 365 Supply Chain Management: 
+# Lab 3: Create a purchase order
 
-In this lab, you will become familiar with the user interface and the different fields available in the purchase order form. You will also learn how to create and confirm a new purchase order.
+In this exercise you will learn how to create and confirm a new purchase order.
 
-### Lab steps
+This exercise should take approximately **15** minutes to complete.
+
+## Before you start
+
+Launch the provided environment as per instructions provided.
+
+## Lab steps
 
 1.  On the **Finance and Operations** home page, in the upper right, verify you are working with the **USMF** company. If necessary, select the company, and from the drop-down list, select **USMF**.
 1.  In the upper left, select the **Expand the navigation pane** hamburger menu.
