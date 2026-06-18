@@ -1,8 +1,24 @@
-### Objective
+---
+lab:
+  title: 'Lab 2: Create a product'
+  description: 'In this lab, you will create a new item and configure the item.'
+  duration: '15 minutes'
+  level: 200 
+  islab: true
+---
 
-In Contoso Entertainment System USA (USMF), you plan to purchase a new configuration of a cabinet from a vendor. You need to create an item to represent the new configuration. In this lab, you will learn how to create a new item and item configurations.
+# Describe core capabilities of Dynamics 365 Supply Chain Management: 
+# Lab 2: Create a product
 
-### Lab steps
+In this exercise you will create an item to represent the new configuration. In this lab, you will learn how to create a new item and item configurations.
+
+This exercise should take approximately **15** minutes to complete.
+
+## Before you start
+
+Launch the provided environment as per instructions provided.
+
+## Lab steps
 
 In Contoso Entertainment System USA (USMF), you plan to purchase a new configuration of a cabinet from a vendor. You need to create an item to represent the new configuration.
 
