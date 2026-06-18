@@ -1,10 +1,24 @@
-## Exercise: Process a purchase order by using the Warehouse Management mobile app
+---
+lab:
+  title: 'Lab 4: Create a purchase order using the Warehouse Management mobile app'
+  description: 'In this lab, you will create a new purchase order and process the purchase receipt by using the Warehouse Management mobile app.'
+  duration: '30 minutes'
+  level: 200 
+  islab: true
+---
 
-### Objective
+# Describe warehouse management in Dynamics 365 Supply Chain Managememt: 
+# Lab 4: Create a purchase order using the Warehouse Management mobile app
 
-In this lab, you will become familiar with the operations of the Warehouse Management mobile app. You will also create a new purchase order and process the purchase receipt by using the Warehouse Management mobile app.
+In this exercise you will create a filtered view and add it to a workspace. Your goal is to have easy access to customers who are on hold.
 
-### Lab steps
+This exercise should take approximately **30** minutes to complete.
+
+## Before you start
+
+Launch the provided environment as per instructions provided.
+
+## Lab steps
 
 ### Create a purchase order
 
